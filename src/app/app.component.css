@@ -1,0 +1,11 @@
+
+
+
+.container{
+  background-color: blue;
+  align-items: center;
+  padding-left: 30%;
+}
+#task{
+    display: flex;
+}
